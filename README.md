@@ -19,15 +19,6 @@ The goals are:
 
 ---
 
-## 📂 Project Structure
-iris_analysis.ipynb # Jupyter notebook with full analysis
-README.md # This file
-
-markdown
-Copy code
-
----
-
 ## 🔎 Tasks Completed
 1. **Load and Explore Dataset**
    - Used `scikit-learn` to load the Iris dataset.
